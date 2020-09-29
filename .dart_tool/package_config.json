@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "tansonnn",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-09-29T11:01:51.254486Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.2"
+}
